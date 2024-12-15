@@ -1,4 +1,4 @@
-# Java Practice Repository
+# job4j_exercises
 
 ## Описание
 
